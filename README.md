@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Oleksii Karpov profile views](https://u8views.com/api/v1/github/profiles/72759205/views/day-week-month-total-count.svg)](https://u8views.com/github/AlNeon)
 
 <!--
